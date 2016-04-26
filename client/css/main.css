@@ -1,0 +1,25 @@
+/* 
+For Testing purposes only, can be deleted.
+*/
+html, body {
+    background-color: blue;
+}
+
+br {
+    line-height: 0;
+    height: 0;
+}
+
+.gameboard{
+    margin: 2em 0;
+}
+
+#test {
+    text-align: center;
+    /* Equal to 7 blocks across at 5%; */
+}
+
+svg {
+    margin: 0;
+}
+
